@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0031-next-permutation) |
 | [1028-interval-list-intersections](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1028-interval-list-intersections) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0031-next-permutation) |
 | [1028-interval-list-intersections](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1028-interval-list-intersections) |
 ## Line Sweep
 |  |
