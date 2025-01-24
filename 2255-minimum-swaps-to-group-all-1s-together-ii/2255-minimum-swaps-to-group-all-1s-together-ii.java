@@ -1,29 +1,26 @@
 class Solution {
     public int minSwaps(int[] nums) {
         int ones = 0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==1){
-                ones++;
-            }
+        for(int i: nums){
+            ones += i;
         }
-        int minCount = Integer.MAX_VALUE;
-        int currcount=0;
-        int start = 0;
-        int end = ones;
+        int currCount=0;
         for(int i=0;i<ones;i++){
             if(nums[i]==0){
-                currcount ++;
+                currCount ++;
             }
         }
-        minCount = Math.min(minCount,currcount);
+        int minCount = currCount;
+        int start = 0;
+        int end = ones;
         while(end<nums.length+ones){
-            if(nums[start%nums.length]==0){
-                currcount--;
+            if(nums[start]==0){
+                currCount--;
             }
-            if(nums[end%nums.length]==0){
-                currcount++;
+            if(nums[end % nums.length]==0){
+                currCount++;
             }
-            minCount = Math.min(minCount,currcount);
+            minCount = Math.min(minCount,currCount);
             start++;end++;
         }
         return minCount;
