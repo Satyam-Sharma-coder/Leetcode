@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3463-alternating-groups-i](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+## String
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
