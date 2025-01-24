@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0031-next-permutation) |
 | [1028-interval-list-intersections](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1028-interval-list-intersections) |
+| [1046-max-consecutive-ones-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -59,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
