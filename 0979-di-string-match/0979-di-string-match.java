@@ -4,26 +4,12 @@ class Solution {
         int start = 0;
         int end = s.length();
         int j=0;
-        while(j<res.length){
-            if(j==res.length-1){
-                if(s.charAt(j-1)=='D'){
-                res[j]= end;
-                }
-                else{
-                    res[j]=start;
-                }
-                break;
-            }
-            if(s.charAt(j)=='D'){
-                res[j]= end;
-                end--;
-            }
-            else{
-                res[j]=start;
-                start++;
-            }
-            j++;
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)=='I') res[j++]= start++;
+            else res[j++] = end--;
         }
+        if(s.length()-1=='I') res[j]=start;
+        else res[j]=end;
         return res;
         
     }
