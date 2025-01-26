@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0567-permutation-in-string) |
 | [1028-interval-list-intersections](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1028-interval-list-intersections) |
+| [1454-remove-palindromic-subsequences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Line Sweep
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0567-permutation-in-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1454-remove-palindromic-subsequences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2128-reverse-prefix-of-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2128-reverse-prefix-of-word) |
