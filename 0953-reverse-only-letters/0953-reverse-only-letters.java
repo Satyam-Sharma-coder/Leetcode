@@ -13,6 +13,6 @@ class Solution {
                 start++;end--;
             }
         }
-        return String.valueOf(res);
+        return new String(res);
     }
 }
