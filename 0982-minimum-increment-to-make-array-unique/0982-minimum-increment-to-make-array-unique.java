@@ -1,13 +1,22 @@
 class Solution {
     public int minIncrementForUnique(int[] nums) {
-        Arrays.sort(nums);
-        int ans=0;
-        for(int i=1;i<nums.length;i++){
-            if(nums[i-1]>=nums[i]){
-                ans += nums[i-1]-nums[i]+1;
-                nums[i]=nums[i-1]+1;
+        int max=0;
+        for(int num: nums){
+            max=Math.max(max,num);
+        }
+        int[] arr = new int[nums.length+max];
+        for(int num: nums){
+            arr[num]++;
+        }
+        int moves=0;
+        for(int i=0;i<nums.length+max;i++){
+            if(arr[i]>1){
+                int extra = arr[i]-1;
+                arr[i+1] += extra;
+                arr[i]=1;
+                moves += extra;
             }
         }
-        return ans;
+        return moves;
     }
 }
