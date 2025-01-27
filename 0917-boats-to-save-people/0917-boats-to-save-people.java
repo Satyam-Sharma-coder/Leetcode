@@ -15,9 +15,6 @@ class Solution {
                 end--;
             }
         }
-        // if(start==end){
-        //     count++;
-        // }
         return count;
     }
 }
