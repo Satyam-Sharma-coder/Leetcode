@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0274-h-index) |
 | [0713-subarray-product-less-than-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0274-h-index) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0985-bag-of-tokens) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
