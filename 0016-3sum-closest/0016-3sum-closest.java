@@ -7,9 +7,6 @@ class Solution {
             int j=nums.length-1;
             while(i<j){
                 int sum = nums[i]+nums[j]+nums[k];
-                if(sum == target){
-                    return target;
-                }
                 if(Math.abs(target-sum)<Math.abs(target-ans)){
                     ans = sum;
                 }
