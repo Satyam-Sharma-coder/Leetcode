@@ -47,7 +47,7 @@ class Solution {
         long sum = 0;
         int mod = 1_000_000_007;
         for (int i = nums.length - 1; i >= 0; i--) {
-            sum = (sum + (long)arr[i] * nums[i] % mod) % mod;
+            sum = (sum + (long)arr[i] * nums[i]) % mod;
         }
         
         return (int)sum;
