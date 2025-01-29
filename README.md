@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0274-h-index) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1095-two-city-scheduling) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0985-bag-of-tokens) |
