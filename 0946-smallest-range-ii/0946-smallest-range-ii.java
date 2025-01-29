@@ -3,8 +3,8 @@ class Solution {
         Arrays.sort(nums);
         int bestL = nums[0]+k;
         int bestR = nums[nums.length-1]-k;
-        int min=Integer.MAX_VALUE;
-        int max= Integer.MIN_VALUE;
+        int min=0;
+        int max= 0;
         int res=nums[nums.length-1]-nums[0];
         for(int i=0;i<nums.length-1;i++){
             min=Math.min(bestL,nums[i+1]-k);
