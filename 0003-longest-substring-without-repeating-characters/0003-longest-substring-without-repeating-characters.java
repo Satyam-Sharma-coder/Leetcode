@@ -1,12 +1,4 @@
 class Solution {
-    public boolean duplicateFreq(int[] freq){
-        for(int i: freq){
-            if(i>1){
-                return true;
-            }
-        }
-        return false;
-    }
     public int lengthOfLongestSubstring(String s) {
         int[] freq = new int[128];
         int start = 0;
@@ -14,7 +6,7 @@ class Solution {
         int maxLength = 0;
         while(end<s.length()){
             freq[s.charAt(end)]++;
-            while(duplicateFreq(freq) && start < end){
+            while(freq[s.charAt(end)]>1 && start < end){
                 freq[s.charAt(start)]--;
                 start++;
             }
