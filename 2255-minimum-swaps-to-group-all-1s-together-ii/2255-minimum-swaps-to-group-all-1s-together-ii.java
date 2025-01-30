@@ -2,7 +2,9 @@ class Solution {
     public int minSwaps(int[] nums) {
         int ones = 0;
         for(int i: nums){
-            ones += i;
+            if(i==1){
+                ones++;
+            }
         }
         int currCount=0;
         for(int i=0;i<ones;i++){
