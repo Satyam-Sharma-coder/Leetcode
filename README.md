@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2128-reverse-prefix-of-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting Sort
 |  |
 | ------- |
