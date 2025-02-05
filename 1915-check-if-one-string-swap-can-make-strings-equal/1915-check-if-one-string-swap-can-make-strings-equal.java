@@ -7,17 +7,15 @@ class Solution {
         for(int i=0;i<s1.length();i++){
             arr1[s1.charAt(i)-'a']++;
             arr2[s2.charAt(i)-'a']++;
-        }
-        for(int i=0;i<arr1.length;i++){
-            if(arr1[i]!=arr2[i]){
-                return false;
-            }
-        }
-        for(int i=0;i<s1.length();i++){
             if(s1.charAt(i)!=s2.charAt(i)){
                 count++;
             }
             if(count>2){
+                return false;
+            }
+        }
+        for(int i=0;i<arr1.length;i++){
+            if(arr1[i]!=arr2[i]){
                 return false;
             }
         }
