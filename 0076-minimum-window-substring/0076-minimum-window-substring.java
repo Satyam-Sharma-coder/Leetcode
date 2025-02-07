@@ -1,38 +1,36 @@
 class Solution {
     public String minWindow(String s, String t) {
-        int[] t1 = new int[128];
-        int[] s1 = new int[128]; 
+        int[] t1=new int[128];
+        int[] s1=new int[128];
 
-        for (int i = 0; i < t.length(); i++) {
+        for(int i=0;i<t.length();i++){
             t1[t.charAt(i)]++;
         }
-        int count = 0;
-        for (int i = 0; i < 128; i++) {
-            if (t1[i] != 0) count++;
+        int count=0;
+        for(int i=0;i<t1.length;i++){
+            if(t1[i]!=0) count++;
         }
-        int start = 0, end = 0, minLength = s.length() + 1;
-        int si = -1, ei = -1;
-        while (end < s.length()) {
-            s1[s.charAt(end)]++;
-            
-            if (s1[s.charAt(end)] == t1[s.charAt(end)]) {
-                count--;
-            }
-            while (start <= end && count == 0) {
-                if (minLength > end - start + 1) {
-                    minLength = end - start + 1;
-                    si = start;
-                    ei = end;
-                }
+        int start=0;
+        int e=0;
+        int si=-1;
+        int ei=-1;
+        int ml=s.length()+1;
+        while(e<s.length()){
+            s1[s.charAt(e)]++;
+            if(s1[s.charAt(e)]==t1[s.charAt(e)]) count--;
+            while(count==0 && start<=e){
                 s1[s.charAt(start)]--;
-                if (s1[s.charAt(start)] < t1[s.charAt(start)]) {
-                    count++;
+                if(ml>e-start+1){
+                    ml=e-start+1;
+                    si=start;
+                    ei=e;
                 }
+                if(s1[s.charAt(start)]<t1[s.charAt(start)]) count++;
                 start++;
             }
-
-            end++;
+            e++;
         }
-        return (si == -1) ? "" : s.substring(si, ei + 1);
+        if(ml==s.length()+1) return "";
+        return s.substring(si,ei+1);
     }
 }
