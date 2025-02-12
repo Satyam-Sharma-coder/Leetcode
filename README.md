@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Queue
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1829-maximum-units-on-a-truck](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Stack
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1829-maximum-units-on-a-truck](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Counting
