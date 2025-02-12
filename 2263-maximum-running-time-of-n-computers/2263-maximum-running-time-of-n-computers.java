@@ -6,7 +6,6 @@ class Solution {
             min = Math.min(min,i);
             max += i;
         }
-        max=max/n;
         while(min <= max){
             long mid = (min + max)/2;
             long val = mid * n;
