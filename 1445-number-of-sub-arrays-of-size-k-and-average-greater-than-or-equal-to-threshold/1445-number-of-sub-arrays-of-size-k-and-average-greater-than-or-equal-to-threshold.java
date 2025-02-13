@@ -11,8 +11,6 @@ class Solution {
         if(sum >= threshold){
             count++;
         }
-
-
         while(j<nums.length){
             sum = sum - nums[i]+nums[j];
             if(sum >= threshold){
