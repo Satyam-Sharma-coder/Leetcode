@@ -19,7 +19,7 @@ class Solution {
         while(j<s.length()){
             freq[s.charAt(j)-'a']--;
 
-            if(j-i+1 == n){
+            while(j-i+1 == n){
                 if(allZero(freq)){
                     ans.add(i);
                 }
