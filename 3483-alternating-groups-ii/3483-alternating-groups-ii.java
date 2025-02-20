@@ -8,7 +8,7 @@ class Solution {
             if(colors[(end-1)% colors.length]==colors[(end)% colors.length]){
                 start = end;
             }
-            else if (colors[(end-1)%colors.length]!=colors[end % colors.length] && end-start+1>=k){
+            else if (end-start+1>=k){
                 ans++;
             }
             if(end== colors.length-1){
