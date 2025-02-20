@@ -1,7 +1,7 @@
 class Solution {
-    public boolean isPermutation(int[] freqs1,int[] freqs2){
-        for(int i=0;i<freqs2.length;i++){
-            if(freqs1[i]!=freqs2[i]){
+    public boolean isPermutation(int[] freqs1){
+        for(int i:freqs1){
+            if(i>0){
                 return false;
             }
         }
@@ -13,7 +13,6 @@ class Solution {
 
 
         int[] freqs1 = new int[26];
-        int[] freqs2 = new int[26];
         for(int i=0;i<s1.length();i++){
             freqs1[s1.charAt(i)-'a']++;
         }
@@ -22,12 +21,12 @@ class Solution {
         int i=0;
         int j=0;
         while(j<s2.length()){
-            freqs2[s2.charAt(j)-'a']++;
+            freqs1[s2.charAt(j)-'a']--;
             if(j-i+1 == k){
-                if(isPermutation(freqs1,freqs2)){
+                if(isPermutation(freqs1)){
                     return true;
                 }
-                freqs2[s2.charAt(i)-'a']--;
+                freqs1[s2.charAt(i)-'a']++;
                 i++;
             }
             j++;
