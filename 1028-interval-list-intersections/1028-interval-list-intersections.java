@@ -16,6 +16,6 @@ class Solution {
                 j++;
             }
         }
-        return ans.toArray(new int [ans.size()][]);
+        return ans.toArray(new int [ans.size()][2]);
     }
 }
