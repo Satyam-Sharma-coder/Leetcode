@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1137-height-checker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1137-height-checker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1137-height-checker) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0274-h-index) |
+| [1137-height-checker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Matrix
 |  |
