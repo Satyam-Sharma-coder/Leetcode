@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0985-bag-of-tokens) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0985-bag-of-tokens) |
