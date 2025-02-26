@@ -16,20 +16,25 @@ class Solution {
     }
 
     public void nextPermutation(int[] nums) {
-        int i = nums.length - 2;
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
+        int n=nums.length;
+        int index=-1;
+        for(int i=nums.length-1;i>0;i--){
+            if(nums[i]>nums[i-1]){
+                index=i-1;
+                break;
+            }
         }
-        if (i == -1) {
-            reverseArray(nums, 0, nums.length - 1);
-            return;
+        if(index!=-1){
+            int swap_index=index;
+            for(int j=nums.length-1;j>=index+1;j--){
+                if(nums[j]>nums[index]){
+                    swap_index=j;
+                    break;
+                }
+            }
+            swap(nums,index,swap_index);
         }
-        int j = nums.length - 1;
-        while (nums[i] >= nums[j]) {
-            j--;
-        }
-        swap(nums, i, j);
-        reverseArray(nums, i + 1, nums.length - 1);
-        return;
+        reverseArray(nums,index+1,nums.length-1);
+
     }
 }
