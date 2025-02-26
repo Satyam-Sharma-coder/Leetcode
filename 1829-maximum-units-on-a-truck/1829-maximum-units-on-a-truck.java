@@ -5,7 +5,8 @@ class Solution {
         int res = 0;
         for(int box=0;box<boxTypes.length;box++){
             if(truckSize<boxTypes[box][0]){
-                return res + truckSize*boxTypes[box][1];
+                res = res + truckSize*boxTypes[box][1];
+                break;
             }
             res += boxTypes[box][0] * boxTypes[box][1];
             truckSize -= boxTypes[box][0];
