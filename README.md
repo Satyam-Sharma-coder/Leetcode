@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
