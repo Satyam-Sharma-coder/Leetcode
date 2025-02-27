@@ -10,11 +10,10 @@ class Solution {
         for(int i=nums.length-1;i>=0;i--){
             sum-=nums[i];
             currSum+=nums[i];
+            arr.add(nums[i]);
             if(currSum>sum){
-                arr.add(nums[i]);
                 break;
             }
-            arr.add(nums[i]);
         }
         return arr;
     }
