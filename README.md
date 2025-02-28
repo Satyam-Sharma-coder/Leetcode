@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1923-sentence-similarity-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1894-merge-strings-alternately](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1923-sentence-similarity-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3447-clear-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3447-clear-digits) |
