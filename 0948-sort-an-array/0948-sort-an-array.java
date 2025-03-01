@@ -13,8 +13,18 @@ class Solution {
         int i=0;
         int j=0;
         int k=s;
-        while(i<n1 && j<n2){
-            if(arr1[i]<=arr2[j]){
+        while(k<=e){
+            if(i<n1 && j<n2){
+                if(arr1[i]<=arr2[j]){
+                nums[k]=arr1[i];
+                i++;
+            }
+                else{
+                    nums[k]=arr2[j];
+                    j++;
+                }
+            }
+            else if(i<n1){
                 nums[k]=arr1[i];
                 i++;
             }
@@ -22,16 +32,6 @@ class Solution {
                 nums[k]=arr2[j];
                 j++;
             }
-            k++;
-        }
-        while(i<n1){
-            nums[k]=arr1[i];
-            i++;
-            k++;
-        }
-        while(j<n2){
-            nums[k]=arr2[j];
-            j++;
             k++;
         }
     }
