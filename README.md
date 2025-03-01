@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1829-maximum-units-on-a-truck](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
