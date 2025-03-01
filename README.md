@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1923-sentence-similarity-iii) |
