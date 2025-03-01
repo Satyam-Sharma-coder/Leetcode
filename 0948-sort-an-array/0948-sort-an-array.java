@@ -16,23 +16,18 @@ class Solution {
         while(k<=e){
             if(i<n1 && j<n2){
                 if(arr1[i]<=arr2[j]){
-                nums[k]=arr1[i];
-                i++;
+                nums[k++]=arr1[i++];
             }
                 else{
-                    nums[k]=arr2[j];
-                    j++;
+                    nums[k++]=arr2[j++];
                 }
             }
             else if(i<n1){
-                nums[k]=arr1[i];
-                i++;
+                nums[k++]=arr1[i++];
             }
             else{
-                nums[k]=arr2[j];
-                j++;
+                nums[k++]=arr2[j++];
             }
-            k++;
         }
     }
     public void mergeSort(int[]nums,int s,int e){
