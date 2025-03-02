@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0070-climbing-stairs) |
+| [0441-arranging-coins](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1013-fibonacci-number) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
