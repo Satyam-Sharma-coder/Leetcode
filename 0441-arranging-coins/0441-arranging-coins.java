@@ -4,7 +4,7 @@ class Solution {
         long max=n;
         long ans=0;
         while(min<=max){
-            long mid = (long)(min+max)/2;
+            long mid = (min+max)/2;
             if(isPossible(n,mid)){
                 ans=mid;
                 min=mid+1;
