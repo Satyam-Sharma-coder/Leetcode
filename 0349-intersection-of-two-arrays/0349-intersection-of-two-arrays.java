@@ -4,14 +4,15 @@ class Solution {
         for(int i: nums1){
             s.add(i);
         }
-        Set<Integer> s2 = new HashSet<>();
-        for(int i: nums2){
-            s2.add(i);
-        }
+        // Set<Integer> s2 = new HashSet<>();
+        // for(int i: nums2){
+        //     s2.add(i);
+        // }
         List<Integer> ans = new ArrayList<>();
-        for(int i: s2){
+        for(int i: nums2){
             if(s.contains(i)){
                 ans.add(i);
+                s.remove(i);
             }
         }
         int[] res = new int[ans.size()];
