@@ -9,8 +9,6 @@ class Solution {
             if(arr[i]==2) continue;
             if(arr[i]!=0){
                 arr[i]=2;
-            }
-            if(arr[i]==2){
                 count++;
             }
         }
