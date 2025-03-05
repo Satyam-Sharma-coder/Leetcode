@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0567-permutation-in-string) |
+| [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0561-array-partition) |
+| [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
