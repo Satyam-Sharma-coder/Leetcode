@@ -9,7 +9,7 @@ class Solution {
         int count = 0;
         for (int c :  nums3) {
             for (int d : nums4) {
-                if (map.containsKey(-(c + d))) count += map.get(-(c + d));
+                count += map.getOrDefault(-(c+d),0);
             }
         }
         return count;   
