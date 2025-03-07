@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0807-custom-sort-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting Sort
 |  |
