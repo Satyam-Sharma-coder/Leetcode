@@ -6,10 +6,8 @@ class Solution {
         }
         int count=0;
         for(int i=0;i<arr.length;i++){
-            if(map.containsKey(arr[i])){
-                int freq= map.get(arr[i]);
-                if(freq==1) count++;
-            }
+            int freq= map.get(arr[i]);
+            if(freq==1) count++;
             if(count==k){
                 return arr[i];
             }
