@@ -7,14 +7,12 @@ class Solution {
             }
         }
         int[] ans=new int[2];
-        for(int i:map.keySet()){
-            if(map.get(i)!=1) ans[0]=i;
-        }
-        int s=1;
         int l = grid.length*grid.length;
-        for(int i=s;i<=l;i++){
+        for(int i=1;i<=l;i++){
             if(!map.containsKey(i)){
                 ans[1]=i;
+            }else{
+                if(map.get(i)!=1) ans[0]=i;
             }
         }
         return ans;
