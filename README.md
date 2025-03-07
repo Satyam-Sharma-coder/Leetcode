@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2502-sort-the-people) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3447-clear-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3447-clear-digits) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
