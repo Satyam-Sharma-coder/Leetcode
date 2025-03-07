@@ -4,12 +4,12 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             map.put(nums[i], map.getOrDefault(nums[i],0)+1);
         }
-        Arrays.sort(nums);
-        for(int i=nums.length-1;i>=0;i--){
-            if(map.containsKey(-nums[i])){
-                return nums[i];
+        int max=-1;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>=0 && map.containsKey(-nums[i])){
+                max=Math.max(max,nums[i]);
             }
         }
-        return -1;
+        return max;
     }
 }
