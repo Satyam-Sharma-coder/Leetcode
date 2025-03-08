@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
+| [0878-shifting-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0878-shifting-letters) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0878-shifting-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0807-custom-sort-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0807-custom-sort-string) |
+| [0878-shifting-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1044-find-common-characters) |
