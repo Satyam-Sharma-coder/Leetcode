@@ -8,14 +8,13 @@ class Solution {
         int sum = 0, ans = 0;
         for (int num : nums) {
             sum += num;
-            int rem = sum % k;
-            if (rem < 0) {
-                rem += k;
+            sum = sum % k;
+            if (sum < 0) {
+                sum += k;
             }
-            ans += map.getOrDefault(rem, 0);
-            map.put(rem, map.getOrDefault(rem, 0) + 1);
+            ans += map.getOrDefault(sum, 0);
+            map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
-
         return ans;
     }
 }
