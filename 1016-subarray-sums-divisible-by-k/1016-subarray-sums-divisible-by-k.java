@@ -9,9 +9,7 @@ class Solution {
         for (int num : nums) {
             sum += num;
             sum = sum % k;
-            if (sum < 0) {
-                sum += k;
-            }
+            if (sum < 0) sum += k;
             ans += map.getOrDefault(sum, 0);
             map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
