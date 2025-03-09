@@ -1,6 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
         int[] arr = new int[k];
