@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1006-vowel-spellchecker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1044-find-common-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1044-find-common-characters) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0807-custom-sort-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1217-relative-sort-array) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
+| [1006-vowel-spellchecker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1250-longest-common-subsequence) |
