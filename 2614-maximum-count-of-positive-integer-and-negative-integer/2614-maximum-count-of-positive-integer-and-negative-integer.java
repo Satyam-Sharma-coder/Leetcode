@@ -4,7 +4,7 @@ class Solution {
         int maxc=0;
         for(int num: nums){
             if(num<0) minc++;
-            if(num>0) maxc++;
+            else if(num>0) maxc++;
         }
         return Math.max(minc,maxc);
     }
