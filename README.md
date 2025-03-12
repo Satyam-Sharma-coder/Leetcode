@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1833-find-the-highest-altitude](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1833-find-the-highest-altitude](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## String
 |  |
 | ------- |
