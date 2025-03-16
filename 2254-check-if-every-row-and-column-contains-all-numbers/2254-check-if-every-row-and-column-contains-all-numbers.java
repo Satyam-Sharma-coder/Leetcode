@@ -7,7 +7,7 @@ class Solution {
         set1.add(matrix[i][j]);
         set2.add(matrix[j][i]);
       }
-      if (Math.min(set1.size(), set2.size()) < matrix.length) return false;
+      if (set1.size()<matrix.length ||  set2.size() < matrix.length) return false;
     }
     return true;
     }
