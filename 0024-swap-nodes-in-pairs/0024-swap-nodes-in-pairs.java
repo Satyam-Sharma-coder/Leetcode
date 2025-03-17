@@ -10,6 +10,10 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
+
+        if(head==null || head.next==null){
+            return head;
+        }
         ListNode prev=null;
         ListNode ptr=head;
         while(ptr!=null && ptr.next!=null){
