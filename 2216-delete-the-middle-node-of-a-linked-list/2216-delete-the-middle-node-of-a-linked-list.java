@@ -18,9 +18,8 @@ class Solution {
             s=s.next;
             f=f.next.next;
         }
-        if(s.next!=null){
-            s.next=s.next.next;
-        }
+        s.next=s.next.next;
+
         return head;
     }
 }
