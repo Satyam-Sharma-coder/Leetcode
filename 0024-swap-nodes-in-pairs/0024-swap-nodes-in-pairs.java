@@ -19,7 +19,7 @@ class Solution {
             if(prev==null){
                 head=temp;
             }
-            if(prev!=null){
+            else{
                 prev.next=temp;
             }
             prev=ptr;
