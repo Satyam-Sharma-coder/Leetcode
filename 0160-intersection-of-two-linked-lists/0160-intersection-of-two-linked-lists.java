@@ -20,7 +20,7 @@ public class Solution {
             t1=t1.next;
             t2=t2.next;
             if(t1==t2){
-                return t1;
+                break;
             }
             if(t1==null){
                 t1=headB;
