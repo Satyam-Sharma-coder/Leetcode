@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -584,4 +585,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
