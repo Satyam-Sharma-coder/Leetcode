@@ -29,14 +29,14 @@ class Solution {
     }
 
     private ListNode reverse(ListNode head) {
-        ListNode dummy = new ListNode();
+        ListNode temp = new ListNode();
         ListNode cur = head;
         while (cur != null) {
             ListNode next = cur.next;
-            cur.next = dummy.next;
-            dummy.next = cur;
+            cur.next = temp.next;
+            temp.next = cur;
             cur = next;
         }
-        return dummy.next;
+        return temp.next;
     }
 }
