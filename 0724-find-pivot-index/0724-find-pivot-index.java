@@ -6,18 +6,16 @@ class Solution {
         }
         if(sum==nums[0]) return 0;
         int r=0;
-        int l=sum-nums[r];
-        if(l==r) return 1;
+        sum-=nums[r];
+        if(sum==r) return 1;
         for(int i=1;i<nums.length;i++){
             r+=nums[i-1];
-            l=l-nums[i];
-            if(r==l){
+            sum-=nums[i];
+            if(r==sum){
                 return i;
             }
         }
 
-
-    
         return -1;
     }
 }
