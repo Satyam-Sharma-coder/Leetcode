@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## String
