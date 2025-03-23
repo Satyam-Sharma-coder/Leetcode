@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3447-clear-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Counting
 |  |
 | ------- |
@@ -610,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 <!---LeetCode Topics End-->
