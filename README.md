@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0454-4sum-ii) |
 | [0498-diagonal-traverse](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0525-contiguous-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0525-contiguous-array) |
