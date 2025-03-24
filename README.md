@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0822-unique-morse-code-words](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0898-transpose-matrix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0807-custom-sort-string) |
+| [0822-unique-morse-code-words](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0966-binary-subarrays-with-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0807-custom-sort-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0807-custom-sort-string) |
+| [0822-unique-morse-code-words](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
