@@ -6,11 +6,10 @@ class Solution {
         
         for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
-            int mod = sum % k;
-            if (map.containsKey(mod)) {
-                if (i - map.get(mod) >= 2) return true;
+            if (map.containsKey(sum%k)) {
+                if (i - map.get(sum%k) >= 2) return true;
             } else {
-                map.put(mod, i);
+                map.put(sum%k, i);
             }
         }
         return false;
