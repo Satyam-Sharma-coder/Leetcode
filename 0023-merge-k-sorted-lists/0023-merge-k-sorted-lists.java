@@ -23,18 +23,21 @@ class Solution {
     }
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists == null || lists.length == 0) return null;
+
         ListNode dummy = new ListNode(-10000); // Dummy node
-        ListNode mergedList = dummy.next; // Start merging from dummy.next
+
+        ListNode temp = dummy; // Start merging from dummy.next
         for (ListNode list : lists) {
-            mergedList = mergeTwoLists(mergedList, list); // Merge iteratively
+            temp = mergeTwoLists(temp, list); // Merge iteratively
         }
-        return mergedList; // Return merged list
+        return temp.next; // Return merged list
 
     }
 }
 
 
-//  -10000--> 1  --> 4 --> 5
+//  -10000--> 1-> 4 -->5
+// 1  --> 4 --> 5
 //  1--> 3 --> 4
 
 
