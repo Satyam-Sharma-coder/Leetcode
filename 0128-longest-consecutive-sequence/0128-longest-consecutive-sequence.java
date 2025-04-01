@@ -4,15 +4,11 @@ class Solution {
         if(n==0){
             return 0;
         }
-        int longest = 1;
-        // creating hashset
-        HashSet <Integer> set = new HashSet<>();
-        // putting array in hashset
+        int longest = 0;
+        Set <Integer> set = new HashSet<>();
         for(int i =0; i<n; i++){
             set.add(nums[i]);
         }
-        //finding longest sequence
-        //1st:Iterate in set
         for (int start : set){
             if(!set.contains(start-1)){
                 int cnt = 1;
@@ -25,10 +21,7 @@ class Solution {
             }
         }
         return longest;
-
-
     }
 }
 
 
-// 100  4 200 1 3 2 
