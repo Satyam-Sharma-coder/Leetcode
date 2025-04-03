@@ -8,6 +8,7 @@ class Solution {
                 st.pop();
                 k--;
             }
+            if(st.isEmpty() && c=='0') continue;
             st.push(c);
         }
         while (k > 0 && !st.isEmpty()) {
@@ -19,9 +20,6 @@ class Solution {
             sb.append(st.pop());
         }
         sb.reverse();
-        while (sb.length() > 1 && sb.charAt(0) == '0') {
-            sb.deleteCharAt(0);
-        }
         return sb.length() == 0 ? "0" : sb.toString();
     }
 }
