@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0768-partition-labels) |
@@ -668,4 +671,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
