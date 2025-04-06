@@ -1,7 +1,6 @@
 class Solution {
     public int[] mostCompetitive(int[] nums, int k) {
         Stack<Integer> st = new Stack<>();
-        if(k>nums.length) return new int[0];
         int[] arr = new int[k];
         k=nums.length-k;
 
