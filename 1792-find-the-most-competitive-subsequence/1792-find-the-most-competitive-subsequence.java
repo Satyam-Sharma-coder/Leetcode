@@ -15,7 +15,7 @@ class Solution {
             st.pop();
         }
         for(int i=arr.length-1;i>=0;i--){
-            if(!st.isEmpty()) arr[i]=st.pop();
+            arr[i]=st.pop();
         }
         return arr;
     }
