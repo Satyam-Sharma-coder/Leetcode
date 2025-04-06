@@ -5,17 +5,14 @@ class Solution {
             if(ch == '(') {
                 stack.push(ch);
             } else {
-                // if top of stack is '('
                 if(!stack.isEmpty() && stack.peek() == '(') {
                     stack.pop();
                     stack.push('1');
                 } else {
-                    // if top of stack is a '(char) number'
                     int sum = 0;
                     while(!stack.isEmpty() && stack.peek()!='(') {
                         sum += stack.pop()-'0';
                     }
-                    // pop '('
                     stack.pop();
                     stack.push((char)(2*sum+'0'));
                 }
