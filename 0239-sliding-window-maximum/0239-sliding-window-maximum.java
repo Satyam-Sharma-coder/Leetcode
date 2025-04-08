@@ -10,7 +10,7 @@ class Solution {
             }
             dq.addLast(i);
             if(i>=k-1){
-                if(dq.peekFirst()>=i-k+1 && dq.peekFirst()<=i){
+                if(dq.peekFirst()>=i-k+1){
                     ans[p++]=nums[dq.peek()];
                 }else{
                     dq.removeFirst();
