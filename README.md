@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
