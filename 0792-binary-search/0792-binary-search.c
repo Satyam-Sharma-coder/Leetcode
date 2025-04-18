@@ -1,8 +1,16 @@
 int search(int* nums, int numsSize, int target) {
-    for(int i=0;i<numsSize;i++){
-        if(nums[i]==target){
-            return i;
+     int l=0,r=numsSize-1,m;
+        while(l<=r){
+            m=(l+r)/2;
+            if(nums[m]==target){
+                return m;
+            }
+            else if(nums[m]>target){
+                r=m-1;
+            }
+            else{
+                l=m+1;
+            }
         }
-    }
-    return -1;
+        return -1;
 }
