@@ -1,13 +1,3 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if(list1 == null || list2 == null){
@@ -24,23 +14,12 @@ class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists == null || lists.length == 0) return null;
 
-        ListNode dummy = new ListNode(-10000); // Dummy node
+        ListNode dummy = new ListNode(-10000);
 
-        ListNode temp = dummy; // Start merging from dummy.next
+        ListNode temp = dummy;
         for (ListNode list : lists) {
-            temp = mergeTwoLists(temp, list); // Merge iteratively
+            temp = mergeTwoLists(temp, list); 
         }
-        return temp.next; // Return merged list
-
+        return temp.next;
     }
 }
-
-
-//  -10000--> 1-> 4 -->5
-// 1  --> 4 --> 5
-//  1--> 3 --> 4
-
-
-
-// -10000 --> 1--> 1 --> 3 --> 4-->4-->5
-// 2-->6
