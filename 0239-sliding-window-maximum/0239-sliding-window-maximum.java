@@ -14,7 +14,7 @@ class Solution {
                     ans[p++]=nums[dq.peek()];
                 }else{
                     dq.removeFirst();
-                    ans[p++]=nums[dq.peekFirst()];
+                    ans[p++]=nums[dq.peek()];
                 }
             }
         }
