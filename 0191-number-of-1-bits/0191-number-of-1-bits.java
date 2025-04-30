@@ -4,7 +4,7 @@ class Solution {
         while(n>0){
             int rem = n%2;
             count += rem;
-            n /=2;
+            n=n >> 1;
         }
         return count;
     }
