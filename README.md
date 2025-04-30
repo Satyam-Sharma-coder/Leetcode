@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0070-climbing-stairs) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1013-fibonacci-number) |
@@ -720,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
