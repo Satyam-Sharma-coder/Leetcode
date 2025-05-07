@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1677-matrix-diagonal-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0898-transpose-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
