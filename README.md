@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0838-design-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0838-design-linked-list) |
 ## Randomized
 |  |
 | ------- |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
