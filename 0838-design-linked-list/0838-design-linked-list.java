@@ -1,34 +1,34 @@
 class MyLinkedList {
-
     class Node{
         int val;
         Node next;
 
         Node(int val){
-            this.val=val;
+            this.val = val;
         }
     }
     int size;
     Node dummyNode;
-    
+
     public MyLinkedList() {
-        dummyNode = new Node(-1);
-        size = 0;
+        dummyNode= new Node(-1);
+        size=0;
     }
     
     public int get(int index) {
-        if(index>=size){
+        if(index >= size){
             return -1;
         }
-        Node currNode=dummyNode;
+        Node currNode = dummyNode;
         for(int i=0;i<=index;i++){
             currNode=currNode.next;
         }
         return currNode.val;
+
     }
     
     public void addAtHead(int val) {
-        Node node=new Node(val);
+        Node node = new Node(val);
         node.next=dummyNode.next;
         dummyNode.next=node;
         size++;
@@ -36,37 +36,37 @@ class MyLinkedList {
     
     public void addAtTail(int val) {
         Node node = new Node(val);
-        Node currNode = dummyNode;
+        Node currNode=dummyNode;
         for(int i=0;i<size;i++){
-            currNode=currNode.next;
+            currNode = currNode.next;
         }
         currNode.next=node;
         size++;
     }
     
     public void addAtIndex(int index, int val) {
-        if(index>size){
+        if(index > size){
             return;
         }
         Node node = new Node(val);
-        Node currNode = dummyNode;
+        Node curr = dummyNode;
         for(int i=0;i<index;i++){
-            currNode=currNode.next;
+            curr=curr.next;
         }
-        node.next=currNode.next;
-        currNode.next=node;
+        node.next=curr.next;
+        curr.next=node;
         size++;
     }
     
     public void deleteAtIndex(int index) {
-        if(index>=size){
+        if(index >= size){
             return;
         }
-        Node currNode = dummyNode;
+        Node curr=dummyNode;
         for(int i=0;i<index;i++){
-            currNode = currNode.next;
+            curr=curr.next;
         }
-        currNode.next = currNode.next.next;
+        curr.next=curr.next.next;
         size--;
     }
 }
