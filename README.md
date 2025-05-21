@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2058-concatenation-of-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [2058-concatenation-of-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
