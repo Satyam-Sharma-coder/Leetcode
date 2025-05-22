@@ -25,7 +25,7 @@ class Solution {
         }
         int ans=-1;
         while(min<=max){
-            int mid = min+(max-min)/2;
+            int mid = (min+max)/2;
             if(isPossible(bloomDay,m,k,mid)){
                 ans=mid;
                 max=mid-1;
