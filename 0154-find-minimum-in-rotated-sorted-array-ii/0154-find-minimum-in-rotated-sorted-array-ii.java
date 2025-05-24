@@ -10,6 +10,6 @@ class Solution {
             else if (nums[mid]<nums[e]) e=mid;
             else e--;
         }
-        return Math.min(nums[s],nums[e]);
+        return nums[s];
     }
 }
