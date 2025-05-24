@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0056-merge-intervals) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0268-missing-number) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
