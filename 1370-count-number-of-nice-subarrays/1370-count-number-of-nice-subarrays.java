@@ -21,6 +21,6 @@ class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
         int ans1=findval(nums,k);
         int ans2=findval(nums,k-1);
-        return Math.abs(ans2-ans1);
+        return (ans1-ans2);
     }
 }
