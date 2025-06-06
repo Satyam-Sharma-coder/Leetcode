@@ -20,68 +20,27 @@ class Solution {
 
     }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode h1 = reverse(l1);
-        ListNode h1p=h1;
-        ListNode h2 = reverse(l2);
-        ListNode h2p=h2;
-        ListNode answer = new ListNode(-1);
-        ListNode value = answer;
-        ListNode temp=value;
+        ListNode h1p = reverse(l1);
+        ListNode h2p = reverse(l2);
+        ListNode answer = new ListNode();
         int carry=0;
-        while(h1p!=null && h2p!=null){
-            int sum = h1p.val+h2p.val+carry;
-            if(sum/10==0){
-                ListNode dummy = new ListNode(sum);
-                value.next= dummy;
-                value=value.next;
-                carry=0;
-            }else{
-                carry = sum/10;
-                sum = sum%10;
-                ListNode dummy = new ListNode(sum);
-                value.next= dummy;
-                value=value.next;
+        int sum=0;
+        while(h1p!=null || h2p!=null){
+            sum = carry;
+            if(h1p!=null){
+                sum+=h1p.val;
+                h1p=h1p.next;
             }
-            h1p=h1p.next;
-            h2p=h2p.next;
-        }
-        while(h1p!=null){
-            int sum = h1p.val+carry;
-            if(sum/10==0){
-                ListNode dummy = new ListNode(sum);
-                value.next= dummy;
-                value=value.next;
-                carry=0;
-            }else{
-                carry = sum/10;
-                sum = sum%10;
-                ListNode dummy = new ListNode(sum);
-                value.next= dummy;
-                value=value.next;
+            if(h2p!=null){
+                sum += h2p.val;
+                h2p = h2p.next;
             }
-            h1p=h1p.next;
-        }
-        while(h2p!=null){
-            int sum = h2p.val+carry;
-            if(sum/10==0){
-                ListNode dummy = new ListNode(sum);
-                value.next= dummy;
-                value=value.next;
-                carry=0;
-            }else{
-                carry = sum/10;
-                sum = sum%10;
-                ListNode dummy = new ListNode(sum);
-                value.next= dummy;
-                value=value.next;
-            }
-            h2p=h2p.next;
-        }
-        if(carry !=0){
+            carry = sum/10;
+            answer.val = sum%10;
             ListNode dummy = new ListNode(carry);
-            value.next= dummy;
+            dummy.next= answer;
+            answer = dummy;
         }
-        ListNode result =  reverse(answer.next);
-        return result;
+        return carry==0?answer.next:answer;
     }
 }
