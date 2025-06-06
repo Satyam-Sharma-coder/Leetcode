@@ -3,13 +3,15 @@ class Solution {
         if(list1 == null || list2 == null){
             return list1 == null? list2 : list1;
         }
-        if(list1.val>list2.val){
-            ListNode temp = list1;
-            list1 = list2;
-            list2 = temp;
+        ListNode result;
+        if(list1.val<list2.val){
+            result=list1;
+            result.next=mergeTwoLists(list1.next,list2);
+        }else{
+            result=list2;
+            result.next=mergeTwoLists(list1,list2.next);
         }
-        list1.next = mergeTwoLists(list1.next, list2);
-        return list1;
+        return result;
     }
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists == null || lists.length == 0) return null;
