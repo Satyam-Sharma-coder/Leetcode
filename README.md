@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0886-score-of-parentheses) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0908-middle-of-the-linked-list) |
