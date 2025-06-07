@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0525-contiguous-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Quickselect
