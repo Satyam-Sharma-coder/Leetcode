@@ -10,12 +10,10 @@ class Solution {
                 st.push(st.peek()*2);
             }
             else if(s.equals("+")){
-                if(st.size()>1){
-                    int top=st.pop();
-                    int sumv = st.peek()+top;
-                    st.push(top);
-                    st.push(sumv);
-                }
+                int top=st.pop();
+                int sumv = st.peek()+top;
+                st.push(top);
+                st.push(sumv);
             }
             else{
                 int val = Integer.parseInt(s);
