@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0822-unique-morse-code-words](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
+| [0876-hand-of-straights](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0876-hand-of-straights](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0807-custom-sort-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0876-hand-of-straights](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0979-di-string-match](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0979-di-string-match) |
