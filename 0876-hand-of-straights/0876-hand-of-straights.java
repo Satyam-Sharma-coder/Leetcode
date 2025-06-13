@@ -21,13 +21,9 @@ class Solution {
                 for(i = 0; i < groupSize; i++){
                   map.put(h + i, map.getOrDefault((h + i),0) - 1);
                }
+               ans++;
             }
         }
-        for(int i: hand){
-            if(map.get(i)!=0){
-                return false;
-            }
-        }
-        return true;
+        return ans*groupSize==hand.length;
     }
 }
