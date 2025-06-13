@@ -1,37 +1,31 @@
 class Solution {
     public boolean isNStraightHand(int[] hand, int groupSize) {
-
-        if(hand.length % groupSize!=0) return false;
-        
-        Map<Integer,Integer> map = new HashMap<>();
-        for(int i=0;i<hand.length;i++){
-            map.put(hand[i],map.getOrDefault(hand[i],0)+1);
+        if(hand.length % groupSize != 0) return false;
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i : hand){
+            map.put(i, map.getOrDefault(i, 0) + 1);
         }
         Arrays.sort(hand);
-        for(int i=0;i<hand.length;i++){
-            int first=hand[i];
-            int j=1;
-            while(j!=groupSize && map.get(hand[i])!=0){
-                if(map.containsKey(hand[i]+j) && map.get(hand[i]+j)!=0){
-                    j++;
-                }
-                else{
-                    break;
-                }
+        int ans = 0;
+        for(int h : hand){
+            int i;
+            int count=0;
+            for(i = 0; i < groupSize; i++){
+               if(map.containsKey(h + i) && map.get(h + i)>0){
+                 count++;
+               }else{
+                break;
+               }
             }
-            if(j==groupSize){
-                    j=0;
-                    while(j!=groupSize){
-                        map.put(hand[i]+j,map.getOrDefault(hand[i]+j,0)-1);
-                        j++;
-                    }
+            if(count==groupSize){
+                for(i = 0; i < groupSize; i++){
+                  map.put(h + i, map.getOrDefault((h + i),0) - 1);
+               }
             }
         }
-        for(int i=0;i<hand.length;i++){
-            if(map.containsKey(hand[i])){
-                if(map.get(hand[i])!=0){
-                    return false;
-                }
+        for(int i: hand){
+            if(map.get(i)!=0){
+                return false;
             }
         }
         return true;
