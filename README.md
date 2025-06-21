@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2502-sort-the-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
