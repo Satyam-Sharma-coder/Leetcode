@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1304-longest-happy-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1304-longest-happy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1304-longest-happy-string) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1095-two-city-scheduling](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1304-longest-happy-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1304-longest-happy-string) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
