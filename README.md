@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1894-merge-strings-alternately) |
