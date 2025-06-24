@@ -10,9 +10,8 @@ class Solution {
                 st.push(st.peek()*2);
             }
             else if(s.equals("+")){
-                int top=st.pop();
+                int top=st.get(st.size()-2);
                 int sumv = st.peek()+top;
-                st.push(top);
                 st.push(sumv);
             }
             else{
