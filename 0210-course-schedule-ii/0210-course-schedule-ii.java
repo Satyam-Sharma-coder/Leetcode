@@ -40,11 +40,11 @@ class Solution {
                 }
             }
         }
-        int[] arr = new int[ans.size()];
-        for(int i=0;i<arr.length;i++){
+        int[] arr = new int[V];
+        for(int i=0;i<ans.size();i++){
             arr[i]=ans.get(i);
         }
-        if(arr.length!=V) return new int[0];
+        if(ans.size()!=V) return new int[0];
         return arr;
     }
 }
