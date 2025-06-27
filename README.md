@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
