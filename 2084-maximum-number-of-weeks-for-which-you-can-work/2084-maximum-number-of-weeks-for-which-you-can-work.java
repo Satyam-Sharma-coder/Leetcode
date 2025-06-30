@@ -1,14 +1,13 @@
 class Solution {
     public long numberOfWeeks(int[] milestones) {
-        Arrays.sort(milestones);
-        if (milestones.length==1) return milestones[0]==0?0:1;
+        int n =milestones.length;
         long sum=0;
-        for(int i=0;i<milestones.length-1;i++){
-            sum +=milestones[i];
+        int mx=0;
+        for(int i=0;i<n;i++){
+            mx=Math.max(mx,milestones[i]);
+            sum += milestones[i];
         }
-        if(milestones[milestones.length-1]>sum){
-            return 2*(sum)+1;
-        }
-        return sum+milestones[milestones.length-1];
+        if(mx> sum-mx) return 2*(sum-mx)+1;
+        return sum;
     }
 }
