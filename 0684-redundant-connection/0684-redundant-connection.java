@@ -1,29 +1,47 @@
 class Solution {
-    private Map<Integer, List<Integer>> graph;
-    public int[] findRedundantConnection(int[][] edges) {
-        graph = new HashMap<>();
-        for(int[] edge : edges){
-            Set<Integer> visited = new HashSet<>();
-            if(hasPath(edge[0], edge[1], visited))
-                return edge;
-            List<Integer> temp = graph.containsKey(edge[0]) ? graph.get(edge[0]): new ArrayList<>();
-            temp.add(edge[1]);
-            graph.put(edge[0], temp);
-            temp = graph.containsKey(edge[1]) ? graph.get(edge[1]): new ArrayList<>();
-            temp.add(edge[0]);
-            graph.put(edge[1], temp);
+    static int[] ans = new int[2];
+    public boolean union(int x, int y, int[]rank, int[] parent){
+        int parent_x = findRoot(x,parent);
+        int parent_y = findRoot(y,parent);
+        if(parent_x==parent_y){
+            ans[0]=x;
+            ans[1]=y;
+            return false;
         }
-        return new int[]{-1, -1};
+
+        int rank_x = rank[parent_x];
+        int rank_y = rank[parent_y];
+
+        if(rank_x > rank_y){
+            parent[parent_y]=parent_x;
+
+        }
+        else if(rank_y>rank_x){
+            parent[parent_x]=parent_y;
+        }
+        else{
+            parent[parent_x]=parent_y;
+            rank[parent_y]++;
+        }
+        return true;
     }
-    private boolean hasPath(int u, int v, Set<Integer> visited){
-        if(u == v) return true;
-        visited.add(u);
-        if(!graph.containsKey(u) || !graph.containsKey(v)) return false;
-        List<Integer> nexts = graph.get(u);
-        for(Integer next : nexts){
-            if(visited.contains(next)) continue;
-            if(hasPath(next, v, visited)) return true;
+    public int findRoot(int x,int[] parent){
+        if(x==parent[x]){
+            return x;
         }
-        return false;
+        return parent[x]=findRoot(parent[x],parent);
+    }
+    public int[] findRedundantConnection(int[][] edges) {
+        int[] parent = new int[edges.length+1];
+        int[] rank = new int[edges.length+1];
+
+        for(int i=1;i<edges.length+1;i++){
+            parent[i]=i;
+        }
+        for(int [] edge: edges){
+            
+            union(edge[0],edge[1],rank,parent);
+        }
+        return ans;
     }
 }
