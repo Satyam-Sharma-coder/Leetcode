@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2048-build-array-from-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
