@@ -26,25 +26,21 @@ class Solution {
     public int makeConnected(int n, int[][] connections) {
         int[] parent=new int[n];
         int[] rank= new int[n];
+        if(connections.length <n-1) return -1;
         for(int i=0;i<n;i++){
             parent[i]=i;
         }
-        int cables=0;
         for(int[] edges:connections){
             int x=edges[0];
             int y=edges[1];
-            if(!union(x,y,parent,rank)) cables++;
+            union(x,y,parent,rank);
         }
         int count=0;
         for(int i=0;i<n;i++){
-            System.out.println(i+" "+parent[i]);
             if(parent[i]==i){
                 count++;
             }
         }
-        if(cables>=count-1){
-            return count-1;
-        }
-        return -1;
+        return count-1;
     }
 }
