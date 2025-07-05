@@ -1,44 +1,42 @@
 class Solution {
-    public char find(char x, char[]parent){
-        if(x==parent[x-'a']) return x;
-        return parent[x-'a']=find(parent[x-'a'],parent);
+    public int find(int x, int[]parent){
+        if(x==parent[x]) return x;
+        return parent[x]=find(parent[x],parent);
     }
-    public void union(char x,char y,char[] parent,int[] rank){
-        char parent_x = find(x,parent);
-        char parent_y=find(y,parent);
+    public void union(int x,int y,int[] parent,int[] rank){
+        int parent_x = find(x,parent);
+        int parent_y=find(y,parent);
         if(parent_x==parent_y) return;
-        int rank_x=rank[parent_x-'a'];
-        int rank_y=rank[parent_y-'a'];
+        int rank_x=rank[parent_x];
+        int rank_y=rank[parent_y];
         if(rank_x>rank_y){
-            parent[parent_y-'a']= parent_x;
+            parent[parent_y]= parent_x;
         }
         else if(rank_y>rank_x){
-            parent[parent_x-'a']=parent_y;
+            parent[parent_x]=parent_y;
         }
         else if (rank_y==rank_x){
-            parent[parent_y-'a']=parent_x;
-            rank[parent_x-'a']++;
+            parent[parent_y]=parent_x;
+            rank[parent_x]++;
         }
     }
     public boolean equationsPossible(String[] equations) {
-        char[] parent = new char[26];
-        char ch = 'a';
+        int[] parent = new int[26];
         for(int i=0;i<parent.length;i++){
-            parent[i]=ch;
-            ch++;
+            parent[i]=i;
         }
         int[] rank = new int[26];
         for(String s: equations){
             if(s.charAt(1)=='='){
-                char x = s.charAt(0);
-                char y = s.charAt(3);
+                int x = s.charAt(0)-'a';
+                int y = s.charAt(3)-'a';
                 union(x,y,parent,rank);
             }
         }
         for(String s: equations){
             if(s.charAt(1)=='!'){
-                char parent_x = find(s.charAt(0),parent);
-                char parent_y = find(s.charAt(3),parent);
+                int parent_x = find(s.charAt(0)-'a',parent);
+                int parent_y = find(s.charAt(3)-'a',parent);
                 if(parent_x== parent_y) return false;
             }
         }
