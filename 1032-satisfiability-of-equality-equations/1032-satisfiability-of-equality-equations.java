@@ -15,7 +15,7 @@ class Solution {
         else if(rank_y>rank_x){
             parent[parent_x]=parent_y;
         }
-        else if (rank_y==rank_x){
+        else{
             parent[parent_y]=parent_x;
             rank[parent_x]++;
         }
