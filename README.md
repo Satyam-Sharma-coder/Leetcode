@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
