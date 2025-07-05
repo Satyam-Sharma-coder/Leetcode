@@ -3,24 +3,21 @@ class Solution {
         if(x==parent[x]) return x;
         return parent[x]=find(parent[x],parent);
     }
-    public boolean union(int x,int y,int[] parent,int[] rank){
+    public void union(int x,int y,int[] parent,int[] rank){
         int parent_x = find(x,parent);
         int parent_y=find(y,parent);
-        if(parent_x==parent_y) return false;
+        if(parent_x==parent_y);
         int rank_x=rank[parent_x];
         int rank_y=rank[parent_y];
         if(rank_x>rank_y){
             parent[parent_y]= parent_x;
-            return true;
         }
         else if(rank_y>rank_x){
             parent[parent_x]=parent_y;
-            return true;
         }
         else{
             parent[parent_y]=parent_x;
             rank[parent_x]++;
-            return true;
         }
     }
     public int makeConnected(int n, int[][] connections) {
