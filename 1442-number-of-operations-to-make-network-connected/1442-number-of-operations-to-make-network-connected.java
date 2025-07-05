@@ -6,7 +6,7 @@ class Solution {
     public void union(int x,int y,int[] parent,int[] rank){
         int parent_x = find(x,parent);
         int parent_y=find(y,parent);
-        if(parent_x==parent_y);
+        if(parent_x==parent_y) return;
         int rank_x=rank[parent_x];
         int rank_y=rank[parent_y];
         if(rank_x>rank_y){
