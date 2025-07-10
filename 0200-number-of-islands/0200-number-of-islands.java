@@ -1,46 +1,20 @@
 class Solution {
-    class Pair{
-        int r;
-        int c;
-        public Pair(int r, int c){
-            this.r=r;
-            this.c=c;
-        }
-    }
-    public void BFS(char[][] grid, boolean[][] vis,int i, int j, int rowL, int colL){
-        Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(i,j));
-        vis[i][j]=true;
-        int[] d_r = {1,0,0,-1};
-        int[] d_c = {0,-1,1,0};
+    public void DFS(int i,int j,char[][] grid){
+        grid[i][j]='0';
 
-        while(!q.isEmpty()){
-            Pair p = q.poll();
-            int row = p.r;
-            int col = p.c;
-
-            for(int k=0;k<4;k++){
-                int nRow = row + d_r[k];
-                int nCol = col + d_c[k];
-
-                if(nRow >= 0 && nRow < rowL && nCol >=0 && nCol < colL && grid[nRow][nCol]=='1' && vis[nRow][nCol]==false){
-                    vis[nRow][nCol]=true;
-                    q.add(new Pair(nRow, nCol));
-                }
-            }
-            
-        }
+        if(i-1>=0 && grid[i-1][j]=='1') DFS(i-1,j,grid);
+        if(i+1<grid.length && grid[i+1][j]=='1') DFS(i+1,j,grid);
+        if(j-1>=0 && grid[i][j-1]=='1') DFS(i,j-1,grid);
+        if(j+1<grid[0].length && grid[i][j+1]=='1') DFS(i,j+1,grid);
     }
     public int numIslands(char[][] grid) {
-        boolean[][] vis = new boolean[grid.length][grid[0].length];
-
         int count=0;
-
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
-                if(!vis[i][j] && grid[i][j]=='1'){
+                if(grid[i][j]=='1'){
+                    DFS(i,j,grid);
                     count++;
-                    BFS(grid,vis,i,j,grid.length,grid[0].length);
+
                 }
             }
         }
