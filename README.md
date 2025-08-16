@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1448-maximum-69-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1304-longest-happy-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1304-longest-happy-string) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1448-maximum-69-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
