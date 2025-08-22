@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1761-count-sorted-vowel-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1761-count-sorted-vowel-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Monotonic Stack
