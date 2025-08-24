@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Simulation
