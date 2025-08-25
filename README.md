@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1006-vowel-spellchecker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1025-minimum-cost-for-tickets](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1044-find-common-characters) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
