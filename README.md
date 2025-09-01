@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1635-number-of-good-pairs) |
