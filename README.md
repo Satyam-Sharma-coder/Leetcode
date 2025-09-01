@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2727-number-of-senior-citizens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2727-number-of-senior-citizens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3447-clear-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3447-clear-digits) |
 ## Binary Search
