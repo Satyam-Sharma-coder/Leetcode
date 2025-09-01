@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1448-maximum-69-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
