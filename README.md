@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
