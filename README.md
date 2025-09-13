@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0091-decode-ways) |
