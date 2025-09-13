@@ -9,9 +9,10 @@ class Solution {
         for(int i=0;i<26;i++){
             if(i==0 || i==4 || i==8 || i==14 || i==20){
                 maxv=Math.max(maxv,freq[i]);
-                continue;
             }
-            maxc=Math.max(maxc,freq[i]);
+            else{
+                maxc=Math.max(maxc,freq[i]);
+            }
         }
         return maxc+maxv;
 
