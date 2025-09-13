@@ -1,14 +1,11 @@
+from collections import Counter
+
 class Solution:
     def maxFreqSum(self, s: str) -> int:
-        freq=[0]*26
-        for i in s:
-            freq[ord(i)-ord('a')]+=1
-        maxv=0
-        maxc=0
-        vowel=[0,4,8,14,20]
-        for i in range(len(freq)):
-            if i in vowel:
-                maxv=max(maxv,freq[i])
-            else:
-                maxc=max(maxc,freq[i])
-        return maxc+maxv
+        freq = Counter(s)
+        vowels = set("aeiou")
+
+        maxv = max((freq[ch] for ch in vowels if ch in freq), default=0)
+        maxc = max((freq[ch] for ch in freq if ch not in vowels), default=0)
+
+        return maxv + maxc
