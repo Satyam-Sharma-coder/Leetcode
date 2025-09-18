@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0072-edit-distance) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0045-jump-game-ii) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Trie
