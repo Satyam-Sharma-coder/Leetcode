@@ -11,17 +11,16 @@ class Solution {
             freq[i]++;
         }
         int maxf=0;
+        int ans=0;
         for(int i=0;i<freq.length;i++){
             if(maxf<freq[i]){
                 maxf=freq[i];
+                ans=1;
+            }else if(maxf==freq[i]){
+                ans++;
             }
         }
-        int ans=0;
-        for(int i:freq){
-            if(i==maxf){
-                ans+=i;
-            }
-        }
-        return ans;
+        
+        return ans*maxf;
     }
 }
