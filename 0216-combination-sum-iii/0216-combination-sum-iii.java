@@ -4,7 +4,7 @@ class Solution {
             ans.add(new ArrayList<>(temp));
             return;
         }
-        if(k==0 || n<=0){
+        if(k==0 || n==0){
             return;
         }
         for(int i=index;i<=Math.min(9,n);i++){
