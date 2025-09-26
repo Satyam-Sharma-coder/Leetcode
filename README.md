@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0290-word-pattern) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Trie
