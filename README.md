@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
