@@ -2,16 +2,16 @@ class Solution {
     public void dfs(int i,int j,char[][] grid){
         grid[i][j]='0';
 
-        if(i>=0 && j>=0 &&  i<grid.length-1 && j<grid[0].length && grid[i+1][j]=='1'){
+        if(i+1<grid.length && grid[i+1][j]=='1'){
             dfs(i+1,j,grid);
         }
-        if(i>0 && j>=0 && i<grid.length && j<grid[0].length && grid[i-1][j]=='1'){
+        if(i-1>=0 && grid[i-1][j]=='1'){
             dfs(i-1,j,grid);
         }
-        if(i>=0 && j>=0 &&  i<grid.length && j<grid[0].length-1 && grid[i][j+1]=='1'){
+        if(j+1<grid[0].length && grid[i][j+1]=='1'){
             dfs(i,j+1,grid);
         }
-        if(i>=0 && j>0 &&  i<grid.length && j<grid[0].length && grid[i][j-1]=='1'){
+        if(j-1>=0 && grid[i][j-1]=='1'){
             dfs(i,j-1,grid);
         }
     }
