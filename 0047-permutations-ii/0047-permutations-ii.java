@@ -3,6 +3,7 @@ class Solution {
     public void helper(List<Integer> temp, List<List<Integer>> ans,Map<Integer,Integer> map,int length){
         if(length==temp.size()){
             ans.add(new ArrayList<>(temp));
+            return;
         }
         for (int nums: map.keySet()){
             int count = map.get(nums);
