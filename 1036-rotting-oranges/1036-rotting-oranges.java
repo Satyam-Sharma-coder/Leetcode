@@ -14,11 +14,10 @@ class Solution {
         }
         if(val==0) return 0;
         int[][] dir = new int[][]{{1,0},{-1,0},{0,1},{0,-1}};
-        int count=-1;
+        int count=0;
 
         while(!queue.isEmpty()){
             int size=queue.size();
-            count++;
             while(size>0){
                 int[] dire=queue.poll();
                 for(int[] di: dir){
@@ -35,8 +34,9 @@ class Solution {
                 }
                 size--; 
             }
+            count++;
             
         }
-        return val==0?count:-1;
+        return val==0?count-1:-1;
     }
 }
