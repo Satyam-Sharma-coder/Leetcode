@@ -41,6 +41,9 @@ class Solution {
         for(int i=0;i<length;i++){
             int count = dfs(i,new boolean[length],graph);
             maxa=Math.max(maxa,count);
+            if(maxa==length){
+                break;
+            }
         }
         return maxa;
 
