@@ -31,11 +31,7 @@ class Solution {
                     int x2=bomb[j][0];
                     int y2=bomb[j][1];
 
-                    long dx = (long)x1 - x2;
-                    long dy = (long)y1 - y2;
-                    long rr = (long)r * r;   // safe, no overflow
-
-                    if (dx*dx + dy*dy <= rr) {
+                    if ((long)(x1-x2)*(x1-x2)+(long)(y1-y2)*(y1-y2) <= (long)r*r) {
                         graph[i].add(j);
                     }
                 }
