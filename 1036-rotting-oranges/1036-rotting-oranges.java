@@ -12,12 +12,13 @@ class Solution {
                 }
             }
         }
+        if(val==0) return 0;
         int[][] dir = new int[][]{{1,0},{-1,0},{0,1},{0,-1}};
-        int count=0;
+        int count=-1;
 
         while(!queue.isEmpty()){
             int size=queue.size();
-            boolean changed=false;
+            count++;
             while(size>0){
                 int[] dire=queue.poll();
                 for(int[] di: dir){
@@ -29,13 +30,11 @@ class Solution {
                             queue.add(new int[]{i,j});
                             grid[i][j]=2;
                             val--;
-                            changed=true;
                         }
                     }
                 }
                 size--; 
             }
-            if(changed) count++;
             
         }
         return val==0?count:-1;
