@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0349-intersection-of-two-arrays) |
