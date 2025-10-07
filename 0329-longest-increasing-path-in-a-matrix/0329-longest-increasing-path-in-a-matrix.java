@@ -2,6 +2,8 @@ class Solution {
     public int longestIncreasingPath(int[][] matrix) {
         int m=matrix.length;
         int n=matrix[0].length;
+
+        if(m==0 || n==0) return 0;
         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->b[2]-a[2]);
 
         int[][] ans = new int[m][n];
