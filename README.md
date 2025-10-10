@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0165-compare-version-numbers) |
