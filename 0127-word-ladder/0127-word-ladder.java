@@ -10,6 +10,7 @@ class Solution {
         for(int i=0;i<n+1;i++){
             graph[i]= new ArrayList<Integer>();
         }
+
         for(int i=0;i<n+1;i++){
             String u = "";
             if(i==0){
@@ -44,19 +45,9 @@ class Solution {
             }
 
         }
-
-
-        for(int i=0;i<n+1;i++){
-            System.out.print(i+"---->");
-            for(int j=0;j<graph[i].size();j++){
-                System.out.print(graph[i].get(j)+" ");
-            }
-            System.out.println();
-        }
         if(dest==-1) return 0;
 
         dist[src]=1;
-        System.out.println(src+" "+dest);
 
         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)-> a[1]-b[1]);
         pq.add(new int[]{src,1});
