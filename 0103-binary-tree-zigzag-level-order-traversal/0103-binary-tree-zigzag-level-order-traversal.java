@@ -14,33 +14,24 @@
  * }
  */
 class Solution {
+    public void zigzag(List<List<Integer>> ans, int level, TreeNode root){
+        if(root==null){
+            return;
+        }
+        if(level==ans.size()){
+            ans.add(new ArrayList<>());
+        }
+        ans.get(level).add(root.val);
+        zigzag(ans,level+1,root.left);
+        zigzag(ans,level+1,root.right);
+    }
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        if(root==null) return new LinkedList<>();
         List<List<Integer>> ans = new LinkedList<>();
-        Queue<TreeNode> q = new LinkedList<>();
-
-        q.offer(root);
-
-        int level=0;
-        while(!q.isEmpty()){
-            int size=q.size();
-            List<Integer> list = new LinkedList<>();
-
-            while(size-->0){
-                TreeNode u= q.poll();
-                list.add(u.val);
-                if(u.left!=null){
-                    q.offer(u.left);
-                }
-                if(u.right!=null){
-                    q.offer(u.right);
-                }
+        zigzag(ans,0,root);
+        for(int i=0;i<ans.size();i++){
+            if(i%2!=0){
+                Collections.reverse(ans.get(i));
             }
-            if(level%2!=0){
-                Collections.reverse(list);
-            }
-            ans.add(list);
-            level++;
         }
         return ans;
     }
