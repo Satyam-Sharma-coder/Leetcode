@@ -21,7 +21,7 @@ class Solution {
 
         q.offer(root);
 
-        boolean changedir=false;
+        int level=0;
         while(!q.isEmpty()){
             int size=q.size();
             List<Integer> list = new LinkedList<>();
@@ -36,14 +36,11 @@ class Solution {
                     q.offer(u.right);
                 }
             }
-            if(changedir){
+            if(level%2!=0){
                 Collections.reverse(list);
-                changedir=false;
-            }
-            else{
-                changedir=true;
             }
             ans.add(list);
+            level++;
         }
         return ans;
     }
