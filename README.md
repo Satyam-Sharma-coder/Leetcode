@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0695-max-area-of-island) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Biconnected Component
 |  |
