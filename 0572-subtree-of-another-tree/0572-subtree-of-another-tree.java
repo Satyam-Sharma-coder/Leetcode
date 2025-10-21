@@ -30,7 +30,7 @@ class Solution {
 
     }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        if((root==null && subRoot!=null) || (root!=null && subRoot==null)) return false;
+        if(root==null || subRoot==null) return false;
         return (root.val == subRoot.val && valid(root,subRoot) || isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot));
     }
 }
