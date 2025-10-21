@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Divide and Conquer
 |  |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -1038,9 +1041,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Biconnected Component
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
