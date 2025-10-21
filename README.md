@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -1039,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
