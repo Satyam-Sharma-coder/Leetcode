@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
