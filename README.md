@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2502-sort-the-people) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -993,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1022-unique-paths-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1022-unique-paths-iii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Trie
 |  |
 | ------- |
@@ -1058,4 +1062,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
