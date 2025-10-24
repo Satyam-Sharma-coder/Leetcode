@@ -1,26 +1,118 @@
 class Solution {
-    public boolean nextgreater(int n){
-        int[] nums=new int[10];
-        while(n>0){
-            int val=n%10;
-            if(val==0) return false;
-            nums[val]++;
-            n=n/10;
-        }
-
-        for(int i=1;i<10;i++){
-            if(nums[i]>0 && nums[i]!=i){
-                return false;
-            }
-        }
-        return true;
-    }
     public int nextBeautifulNumber(int n) {
-        for(int i=n+1;i<=1224444;i++){
-            if(nextgreater(i)){
-                return i;
-            }
-        }
-        return 0;
+        if(n==0) return 1;
+        if(n<22) return 22;
+        if(n<122) return 122;
+        if(n<212) return 212;
+        if(n<221) return 221;
+        if(n<333) return 333;
+        if(n<1333) return 1333;
+        if(n<3133) return 3133;
+        if(n<3313) return 3313;
+        if(n<3331) return 3331;
+        if(n<4444) return 4444;
+        if(n<14444) return 14444;
+        if(n<22333) return 22333;
+        if(n<23233) return 23233;
+        if(n<23323) return 23323;
+        if(n<23332) return 23332;
+        if(n<32233) return 32233;
+        if(n<32323) return 32323;
+        if(n<32332) return 32332;
+        if(n<33223) return 33223;
+        if(n<33232) return 33232;
+        if(n<33322) return 33322;
+        if(n<41444) return 41444;
+        if(n<44144) return 44144;
+        if(n<44414) return 44414;
+        if(n<44441) return 44441;
+        if(n<55555) return 55555;
+        if(n<122333) return 122333;
+        if(n<123233) return 123233;
+        if(n<123323) return 123323;
+        if(n<123332) return 123332;
+        if(n<132233) return 132233;
+        if(n<132323) return 132323;
+        if(n<132332) return 132332;
+        if(n<133223) return 133223;
+        if(n<133232) return 133232;
+        if(n<133322) return 133322;
+        if(n<155555) return 155555;
+        if(n<212333) return 212333;
+        if(n<213233) return 213233;
+        if(n<213323) return 213323;
+        if(n<213332) return 213332;
+        if(n<221333) return 221333;
+        if(n<223133) return 223133;
+        if(n<223313) return 223313;
+        if(n<223331) return 223331;
+        if(n<224444) return 224444;
+        if(n<231233) return 231233;
+        if(n<231323) return 231323;
+        if(n<231332) return 231332;
+        if(n<232133) return 232133;
+        if(n<232313) return 232313;
+        if(n<232331) return 232331;
+        if(n<233123) return 233123;
+        if(n<233132) return 233132;
+        if(n<233213) return 233213;
+        if(n<233231) return 233231;
+        if(n<233312) return 233312;
+        if(n<233321) return 233321;
+        if(n<242444) return 242444;
+        if(n<244244) return 244244;
+        if(n<244424) return 244424;
+        if(n<244442) return 244442;
+        if(n<312233) return 312233;
+        if(n<312323) return 312323;
+        if(n<312332) return 312332;
+        if(n<313223) return 313223;
+        if(n<313232) return 313232;
+        if(n<313322) return 313322;
+        if(n<321233) return 321233;
+        if(n<321323) return 321323;
+        if(n<321332) return 321332;
+        if(n<322133) return 322133;
+        if(n<322313) return 322313;
+        if(n<322331) return 322331;
+        if(n<323123) return 323123;
+        if(n<323132) return 323132;
+        if(n<323213) return 323213;
+        if(n<323231) return 323231;
+        if(n<323312) return 323312;
+        if(n<323321) return 323321;
+        if(n<331223) return 331223;
+        if(n<331232) return 331232;
+        if(n<331322) return 331322;
+        if(n<332123) return 332123;
+        if(n<332132) return 332132;
+        if(n<332213) return 332213;
+        if(n<332231) return 332231;
+        if(n<332123) return 332123;
+        if(n<332132) return 332132;
+        if(n<332213) return 332213;
+        if(n<332231) return 332231;
+        if(n<332312) return 332312;
+        if(n<332321) return 332321;
+        if(n<333122) return 333122;
+        if(n<333212) return 333212;
+        if(n<333221) return 333221;
+        if(n<422444) return 422444;
+        if(n<424244) return 424244;
+        if(n<424424) return 424424;
+        if(n<424442) return 424442;
+        if(n<442244) return 442244;
+        if(n<442424) return 442424;
+        if(n<442442) return 442442;
+        if(n<444224) return 444224;
+        if(n<444242) return 444242;
+        if(n<444422) return 444422;
+        if(n<515555) return 515555;
+        if(n<551555) return 551555;
+        if(n<555155) return 555155;
+        if(n<555515) return 555515;
+        if(n<555551) return 555551;
+        if(n<666666) return 666666;
+        return 1224444;
     }
 }
