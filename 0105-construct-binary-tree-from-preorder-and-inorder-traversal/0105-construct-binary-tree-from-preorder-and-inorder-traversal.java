@@ -19,8 +19,8 @@ class Solution {
     Map<Integer,Integer> map;
     private TreeNode buildTree(int i,int j){
         if(i>j) return null;
-        TreeNode root = new TreeNode(preorder[index]);
-        int idx=map.get(preorder[index++]);
+        TreeNode root = new TreeNode(preorder[index++]);
+        int idx=map.get(root.val);
         root.left=buildTree(i,idx-1);
         root.right=buildTree(idx+1,j);
         return root;
