@@ -27,6 +27,8 @@ class Solution {
         
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        if(preorder.length==0) return null;
+        if(preorder.length==1) return new TreeNode(preorder[0]);
         this.preorder=preorder;
         map = new HashMap<>();
         for(int i=0;i<inorder.length;i++){
