@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0684-redundant-connection) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1558-course-schedule-iv) |
