@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0922-possible-bipartition) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1044-find-common-characters) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -1052,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1066,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Satyam-Sharma-coder/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Biconnected Component
 |  |
 | ------- |
